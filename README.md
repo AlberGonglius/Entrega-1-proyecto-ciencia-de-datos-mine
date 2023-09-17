@@ -35,7 +35,7 @@ Para  correr este proyecto es necesario:
 - Seaborn
 - Jupyter Notebook (Para ejecutar el Notebook respectivo)
 - Openpyxl
-- 
+  
 ## Uso
 
 1. Clonar este repositorio.
