@@ -11,7 +11,7 @@ El alcance de este proyecto está enfocado en disminuir los costos de paradas de
 * Brayan Steven Garcia Cardenas
 * Alberto Jose Mendoza Peñaloza
 * Carlos Fernando Montaña Herrera
-* 
+  
 ## Conclusiones
 
 Estos son algunos insights que se han concluido después de realizar el analisis exploratorio inicial de los datos:
